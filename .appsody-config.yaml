@@ -1,0 +1,3 @@
+id: "20200910162404.98977325"
+project-name: java-openliberty-default
+stack: docker.io/appsody/java-openliberty:0.2
